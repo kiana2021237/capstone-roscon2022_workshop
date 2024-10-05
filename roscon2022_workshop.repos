@@ -2,7 +2,7 @@ repositories:
   gazebo_ros2_control:
     type: git
     url: https://github.com/ros-controls/gazebo_ros2_control.git
-    version: humble
+    version: master
   gz_ros2_control:
     type: git
     url: https://github.com/ros-controls/gz_ros2_control.git
@@ -10,8 +10,8 @@ repositories:
   ros2_control:
     type: git
     url: https://github.com/ros-controls/ros2_control.git
-    version: humble
+    version: roscon2022-workshop-additions
   ros2_controllers:
     type: git
     url: https://github.com/ros-controls/ros2_controllers.git
-    version: humble
+    version: roscon2022-workshop-additions

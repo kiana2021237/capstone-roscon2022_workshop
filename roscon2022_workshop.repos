@@ -14,4 +14,4 @@ repositories:
   ros2_controllers:
     type: git
     url: https://github.com/ros-controls/ros2_controllers.git
-    version: roscon2022-workshop-additions
+    version: humble
